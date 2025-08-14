@@ -61,3 +61,7 @@ The output will be in JSON format, e.g.:
 6. **Assumptions**
 - The input Nginx access logs are in the default combined format
 - If device family is unknown, the `device` field will be set to "Unknown"
+
+7. **Credits**
+- [Nginx regex parsing](https://hamatti.org/posts/parsing-nginx-server-logs-with-regular-expressions/)
+- [user-agents documentation](https://pypi.org/project/user-agents/)
